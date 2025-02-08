@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>404_forecast_air_polution</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6b68802a-313a-4f9c-aebe-ef819786fd3d</testCaseGuid>
+</TestCaseEntity>

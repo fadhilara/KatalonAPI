@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>success_lat_lon_code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d01bc35-610f-4252-b4b9-5bc06ab7480c</testCaseGuid>
+</TestCaseEntity>

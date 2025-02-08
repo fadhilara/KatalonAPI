@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>400_forecast_weather</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75e913a0-2c5b-44ff-9e38-7ce7d12f4ba3</testCaseGuid>
+</TestCaseEntity>
